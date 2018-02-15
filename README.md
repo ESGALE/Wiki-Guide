@@ -1,7 +1,13 @@
-# Wiki-Guide
-Élément pour le wiki
+# Bienvenue!
+Vous retrouverez ici tous les éléments afin d'élaborer un sentier pédestre à l'aide d'outils géomatique. Tout d'abord, un guide Wiki a été créé afin d'illustrer une méthodologie pour y arriver. 
+À même cette page, vous retrouverez les liens pour accèder aux différents contenus offerts.
 
-Test de modification au document   
+Bonne visite!   
 
-# Le Wiki!
-Voici le lien pour le wiki [asda](https://github.com/ESGALE/Wiki-Guide/wiki/Page-d%E2%80%99accueil)
+# Le Wiki!   
+Voici le lien pour le [wiki](https://github.com/ESGALE/Wiki-Guide/wiki/Page-d%E2%80%99accueil)
+
+# Exercices et données   
+
+
+# Le plugin QGis   
