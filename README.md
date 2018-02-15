@@ -4,10 +4,10 @@ Vous retrouverez ici tous les éléments afin d'élaborer un sentier pédestre �
 
 Bonne visite!   
 
-# Le Wiki!   
-Voici le lien pour le [wiki](https://github.com/ESGALE/Wiki-Guide/wiki/Page-d%E2%80%99accueil)
+# Le Wiki   
+Voici le [lien](https://github.com/ESGALE/Wiki-Guide/wiki/Page-d%E2%80%99accueil) pour le wiki   
 
-# Exercices et données   
-
+# Exercices et données     
+Voici le [lien](https://github.com/ESGALE/Wiki-Guide/releases) pour télécharger les exercies pratiques ainsi que les données   
 
 # Le plugin QGis   
