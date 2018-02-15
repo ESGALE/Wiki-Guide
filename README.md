@@ -11,7 +11,7 @@ Voici le [lien](https://github.com/ESGALE/Wiki-Guide/wiki/Page-d%E2%80%99accueil
 Voici le [lien](https://github.com/ESGALE/Wiki-Guide/releases) pour télécharger les exercies pratiques ainsi que les données   
 
 # Le plugin QGIS   
-
+Voici le lien pour télécharger le plugin QGIS
 
 
 ![](https://image.ibb.co/j4nLUR/Captureoiedpasfhgdfs.png)
